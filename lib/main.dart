@@ -1,4 +1,4 @@
-import 'package:construck_app/screens/form.dart';
+import 'package:construck_app/screens/mainScreen.dart';
 import 'package:construck_app/screens/login.dart';
 import 'package:flutter/material.dart';
 
